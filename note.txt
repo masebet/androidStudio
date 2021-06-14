@@ -1,0 +1,3 @@
+biasakan liat LOG
+daftarkan activity di Manifest
+belajar dari documentasi
